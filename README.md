@@ -26,7 +26,7 @@
 
     Detail, Source : Pygame, 'GoldMiner' game make. / from Youtube "나도코딩"
 
-  - [`PS5_Pygame_PuzzleBoble`](https://github.com/skybluejae126/Study_Python/tree/master/`PS5_Pygame_PuzzleBoble)
+  - [`PS5_Pygame_PuzzleBoble`](https://github.com/skybluejae126/Study_Python/tree/master/PS5_Pygame_PuzzleBoble)
      (Date : 2024.10.21 ~ 2024.10.23)
 
     Detail, Source : Pygame, 'PuzzleBoble' game make. / from Youtube "나도코딩"
